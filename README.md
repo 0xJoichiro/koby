@@ -14,3 +14,7 @@ To run the unit tests, run `npm run test`.
 To run the e2e tests, deploy the test canister with `dfx deploy test` and run `npm run test:e2e`.
 
 This project also includes a GitHub Actions workflow that runs the unit tests on every push.
+
+
+
+![image](https://github.com/0xJoichiro/koby/assets/119509722/5c235752-6699-431a-96bc-1f44453365e9)
